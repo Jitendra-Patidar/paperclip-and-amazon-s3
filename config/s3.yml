@@ -1,0 +1,11 @@
+#development:
+#  access_key_id: AKIAI6PNTEBHYSP7GGGQ
+#  secret_access_key: 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
+
+#test:
+#  access_key_id: abc
+#  secret_access_key: abc/efg
+
+production:
+  access_key_id: AKIAI6PNTEBHYSP7GGGQ
+  secret_access_key: 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
